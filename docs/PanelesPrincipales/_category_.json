@@ -1,0 +1,8 @@
+{
+  "label": "Paneles Principales",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Aca usaremos Chrome DevTools como referencia"
+  }
+}

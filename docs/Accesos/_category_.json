@@ -1,0 +1,8 @@
+{
+  "label": "Acceso",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Aca daremos una breve explicacion de como desplegar el inspector de elementos."
+  }
+}
